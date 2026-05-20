@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "character": "Reimu Hakurei",
+    "series": "Touhou Project",
+    "price": 4500,
+    "stock": 12,
+    "status": "In Stock"
+  },
+  {
+    "id": 2,
+    "character": "Marisa Kirisame",
+    "series": "Touhou Project",
+    "price": 4500,
+    "stock": 8,
+    "status": "In Stock"
+  },
+  {
+    "id": 3,
+    "character": "Cirno",
+    "series": "Touhou Project",
+    "price": 4200,
+    "stock": 20,
+    "status": "In Stock"
+  },
+  {
+    "id": 4,
+    "character": "Remilia Scarlet",
+    "series": "Touhou Project",
+    "price": 5000,
+    "stock": 3,
+    "status": "Low Stock"
+  },
+  {
+    "id": 5,
+    "character": "Flandre Scarlet",
+    "series": "Touhou Project",
+    "price": 5200,
+    "stock": 2,
+    "status": "Low Stock"
+  },
+  {
+    "id": 6,
+    "character": "Patchouli Knowledge",
+    "series": "Touhou Project",
+    "price": 4600,
+    "stock": 0,
+    "status": "Out of Stock"
+  },
+  {
+    "id": 7,
+    "character": "Hatsune Miku",
+    "series": "Vocaloid",
+    "price": 5500,
+    "stock": 15,
+    "status": "In Stock"
+  },
+  {
+    "id": 8,
+    "character": "Saber (Artoria Pendragon)",
+    "series": "Fate/stay night",
+    "price": 5800,
+    "stock": 0,
+    "status": "Out of Stock"
+  },
+  {
+    "id": 9,
+    "character": "Asuna Yuuki",
+    "series": "Sword Art Online",
+    "price": 4800,
+    "stock": 6,
+    "status": "In Stock"
+  },
+  {
+    "id": 10,
+    "character": "Megumin",
+    "series": "KonoSuba",
+    "price": 4700,
+    "stock": 1,
+    "status": "Low Stock"
+  }
+]
